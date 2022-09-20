@@ -1,0 +1,6 @@
+description,ipaddress,username,password,brand,pos_x,pos_y,width,height,icon_width,icon_height
+Cam- 1,192.168.0.161,admin,admin,rtsp://admin:admin@192.168.0.161/H264?ch=2&subtype=1,1140,840,40,40,25,25
+Cam- 2,192.168.0.162,admin,admin,rtsp://admin:admin@192.168.0.162/H264?ch=2&subtype=1,1140,840,40,40,25,25
+Cam- 3,192.168.0.163,admin,admin,rtsp://admin:admin@192.168.0.163/H264?ch=2&subtype=1,1140,840,40,40,25,25
+Cam- 4,192.168.0.164,admin,admin,rtsp://admin:admin@192.168.0.164/H264?ch=2&subtype=1,1140,840,40,40,25,25
+Cam- 5,192.168.0.165,admin,admin,rtsp://admin:admin@192.168.0.165/H264?ch=2&subtype=1,1140,840,40,40,25,25

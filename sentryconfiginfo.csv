@@ -1,0 +1,8 @@
+description,ipaddress,location,pos_x,pos_y,width,height,icon_width,icon_height
+Sentry- 1,192.168.1.101,Post -1,50,50,50,50,50,50
+Sentry- 2,192.168.1.102,Post -1,50,100,50,50,50,50
+Sentry- 3,192.168.1.103,Post -1,50,150,50,50,50,50
+Sentry- 4,192.168.1.104,Post -1,50,200,50,50,50,50
+Sentry- 5,192.168.1.105,Post -1,50,250,50,50,50,50
+Sentry- 6,192.168.1.106,Post -1,50,300,50,50,50,50
+Sentry- 7,192.168.1.107,Post -1,50,350,50,50,50,50

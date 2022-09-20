@@ -1,0 +1,5 @@
+description,ipaddress,location,pos_x,pos_y,width,height,icon_width,icon_height
+Jammer- 1,192.168.1.101,Post -1,50,400,100,50,50,50
+Jammer- 2,192.168.1.102,Post -1,50,450,100,50,50,50
+Jammer- 3,192.168.1.103,Post -1,50,500,100,50,50,50
+

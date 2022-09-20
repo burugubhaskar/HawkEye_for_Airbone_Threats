@@ -1,0 +1,1 @@
+{"FireEventBlock" : 5, "MagEventBlock" :  5, "VibEventBlock" : 30, "PIREventBlock" :  30, "CameraBlock" : 15, "CameraDwell" : 15, "EventFetchInerval" : 10, "EventDelta" : 15, "LightDwellTime" :  20,"TimetoClearEvents" :  15}
